@@ -1,0 +1,2 @@
+# server-mahjong
+Server Mahjong
